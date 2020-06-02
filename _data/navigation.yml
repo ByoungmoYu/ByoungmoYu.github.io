@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Posts"
-    url: https://byoungmoyu.github.io/postList.md
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://byoungmoyu.github.io/posts/
+  - title: "Tags"
+    url: https://byoungmoyu.github.io/tags/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
