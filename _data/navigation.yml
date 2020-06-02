@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+leftbar:
+  -title: Getting Started
+  children:
+    -title: "React"
+    url: https://byoungmoyu.github.io/posts/

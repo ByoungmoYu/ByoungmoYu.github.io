@@ -266,6 +266,10 @@ compress_html:
   ignore:
     envs: development
 
+# sidebar
+sidebar:
+  nav: "leftbar"
+
 
 # Defaults
 defaults:
@@ -275,7 +279,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
