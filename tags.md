@@ -1,5 +1,6 @@
 ---
 permalink: /tags/
+layout: tags
 ---
 
 {% for tag in site.tags %}
